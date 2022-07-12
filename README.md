@@ -1,6 +1,6 @@
 ### 👨🏻 About
 
-Hey there! I'm Wenchao Hu, blockchain engineer, working for Nervos Network.
+Hey there! I'm Wenchao Hu, blockchain engineer.
 
 ### 🤝🏻 Contact
 
